@@ -1,3 +1,5 @@
+# Calculadora de la práctica de Git
+
 print("Hola desde mi primer script")
 
 def sumar(a, b):
